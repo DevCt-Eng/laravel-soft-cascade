@@ -1,5 +1,3 @@
-![Header](https://i.imgur.com/fKhbljT.png)
-
 [![Build Status](https://travis-ci.org/Askedio/laravel-soft-cascade.svg?branch=master)](https://travis-ci.org/Askedio/laravel-soft-cascade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/58877b88ab38457695217851658a443b)](https://www.codacy.com/app/gcphost/laravel-soft-cascade?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Askedio/laravel-soft-cascade&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/58877b88ab38457695217851658a443b)](https://www.codacy.com/app/gcphost/laravel-soft-cascade?utm_source=github.com&utm_medium=referral&utm_content=Askedio/laravel-soft-cascade&utm_campaign=Badge_Coverage)
